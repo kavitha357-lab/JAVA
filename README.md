@@ -3,7 +3,7 @@
 
 	 Enter Consumer number = 102
 
-	 Enter Consumer name = bala
+	 Enter Consumer name = kavitha
 
 	 Enter the type of connection = domestic
 
@@ -11,7 +11,7 @@
 
 	 Enter current_month reading = 800
 
-	 Customer name = bala
+	 Customer name = kavitha
 
 	 Total units = 650.0
 
@@ -21,7 +21,7 @@
 
 	 Enter Consumer number = 103 
 
-	 Enter Consumer name = dinesh
+	 Enter Consumer name = kirthiga
 
 	 Enter the type of connection = commercial
 
@@ -29,7 +29,7 @@
 
 	 Enter current_month reading = 1300
 
-	 Customer name = dinesh
+	 Customer name = kirthiga
 
 	 Total units = 295.0
 
@@ -90,15 +90,15 @@ Hours : 5
 
 java EmployeePayslip
 Enter Name of Employee :
-karthi
+kavitha
 Enter ID of Employee :
 109
 Enter Address of Employee :
 25,kandamangalam
 Enter Mail ID of Employee :
-karthikeyan.cs25@ifet.ac.in               
+kavitha.cs25@ifet.ac.in               
 Enter Mobile Number of Employee :
-8778239906
+6382853355
 Enter the Basicpay :
 10000
 Enter the Designation :
@@ -108,11 +108,11 @@ Enter the Designation :
 4.Professor 
 5. Exit
 2
-Name of The Employee :karthi***** payslip ****
-Employee Name: karthi
+Name of The Employee :kavitha***** payslip ****
+Employee Name: kavitha
 Employee_ID: 109
 Address: 25,kandamangalam
-Mobile Number: 8778239906
+Mobile Number: 6382853355
  Grosssalary =21910.0
  Netsalary =20700.0
 	 
